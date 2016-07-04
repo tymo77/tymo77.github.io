@@ -1,0 +1,12 @@
+Website Structure
+
+Homepage - index.html
+	About -> Short Bio
+	Resume/CV -> Resume/CV/Projects
+	Contact -> Contact Info
+	Projects -> 
+		Volume Phase Transition in Polymer Gels
+		Grasping and Manipulation through Teams of Coordinated Quadruped Robots
+	-Highlight Graphics
+	-Links to BRAT Lab
+	
